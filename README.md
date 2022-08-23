@@ -8,5 +8,6 @@ Donde se analizaremos los siguientes temas:
 * Clasificacion de juegos por: Idioma, Edad requerida, Gratuitos o de forma de pago
 * Generos(videojuegos) mas consumidos en steam
 ![alt text](http://lambdageneration.com/wp-content/uploads/2014/10/steam-db-spotlight-865x405.jpg)
+
 Para contribuir a este proposito, se realizo un dashboard de visualizacion de datos.
 # Datos
