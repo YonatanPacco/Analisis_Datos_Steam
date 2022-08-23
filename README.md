@@ -13,7 +13,7 @@ Para contribuir a este proposito, se realizo un dashboard de visualizacion de da
 # Datos
 Los datos que se utilizará para el analisis se encuentran en:
 https://www.kaggle.com/datasets/nikdavis/steam-store-games?resource=download&select=steam.csv
-![Datos_steam](https://user-images.githubusercontent.com/106397567/186089301-36f72125-d1cf-4fc6-9c35-bf90361081b5.jpg)
+![imagen_Datos](https://user-images.githubusercontent.com/106397567/186097688-3c614c90-6a5d-4add-a66b-6530cb3ffdfe.jpg)
 # Analisis de datos
 * Companias con mas videojuegos desarrollados:
 
