@@ -23,7 +23,7 @@ https://www.kaggle.com/datasets/nikdavis/steam-store-games?resource=download&sel
 * rating= debería ser calificado por pegi pero
 * language= idioma soportado por el juego
 * genre = genero del juego
-* price = preciod el juego
+* price = precio del juego
 ![imagen_Datos](https://user-images.githubusercontent.com/106397567/186097688-3c614c90-6a5d-4add-a66b-6530cb3ffdfe.jpg)
 # Analisis de datos
 * Companias con mas videojuegos desarrollados:
