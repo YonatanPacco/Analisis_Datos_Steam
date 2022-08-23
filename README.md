@@ -13,6 +13,17 @@ Para contribuir a este proposito, se realizo un dashboard de visualizacion de da
 # Datos
 Los datos que se utilizará para el analisis se encuentran en:
 https://www.kaggle.com/datasets/nikdavis/steam-store-games?resource=download&select=steam.csv
+* name= título del juego
+* release_date= fecha de lanzamiento del juego
+* platform= sistema operativo y disponibilidad de VR
+* developer= empresas que crean y desarrollan el juego
+* publisher= empresas que publican el juego
+* overall_reviews= categorías generales de reseñas (positivas, negativas, etc.)
+* tags= etiquetas populares asignadas al juego, incluido el género del juego
+* rating= debería ser calificado por pegi pero
+* language= idioma soportado por el juego
+* genre = genero del juego
+* price = preciod el juego
 ![imagen_Datos](https://user-images.githubusercontent.com/106397567/186097688-3c614c90-6a5d-4add-a66b-6530cb3ffdfe.jpg)
 # Analisis de datos
 * Companias con mas videojuegos desarrollados:
