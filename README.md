@@ -16,7 +16,7 @@ https://www.kaggle.com/datasets/nikdavis/steam-store-games?resource=download&sel
 ![imagen_Datos](https://user-images.githubusercontent.com/106397567/186097688-3c614c90-6a5d-4add-a66b-6530cb3ffdfe.jpg)
 # Analisis de datos
 * Companias con mas videojuegos desarrollados:
-
+![Analisis1](https://user-images.githubusercontent.com/106397567/186149467-a0fba29f-b4a1-4e4e-b77e-ca34bb6ffe77.jpg)
 Se puede lograr ver que la compania que logro desarrollar mas juegos es Choise of Games con unos 94 juegos desarrollados.
 Tambien se visualiza que la compania que publica mas juegos es Big Fish Games con unos 212 juegos publicados en steam.
 
