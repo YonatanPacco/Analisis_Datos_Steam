@@ -42,4 +42,4 @@ Muchos de estos videojuegos presentan requerimiento de edad, puede que tenga una
 * Videojuegos mas consumidos por genero:
 ![analisis3](https://user-images.githubusercontent.com/106397567/186166116-ffcfd319-b6c1-4776-945b-cb94edfcf625.jpg)
 
-Hay una gran cantidad de videojuegos en el cual muchos usuarios utilizan a diario. El genero con horas mas consumidas es el de Roles
+Hay una gran cantidad de videojuegos en el cual muchos usuarios utilizan a diario. El genero con horas mas consumidas es el de Accion, Roles 
