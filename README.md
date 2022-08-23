@@ -11,3 +11,4 @@ Donde se analizaremos los siguientes temas:
 
 Para contribuir a este proposito, se realizo un dashboard de visualizacion de datos.
 # Datos
+Los datos que se utilizará para el analisis se encuentran en 
