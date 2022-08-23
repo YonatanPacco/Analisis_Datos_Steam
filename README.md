@@ -12,3 +12,4 @@ Donde se analizaremos los siguientes temas:
 Para contribuir a este proposito, se realizo un dashboard de visualizacion de datos.
 # Datos
 Los datos que se utilizará para el analisis se encuentran en 
+![Datos_steam](https://user-images.githubusercontent.com/106397567/186089301-36f72125-d1cf-4fc6-9c35-bf90361081b5.jpg)
