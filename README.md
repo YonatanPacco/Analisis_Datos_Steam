@@ -5,3 +5,6 @@
 * una
 * persona
 * admirable
+* hola
+* como
+* estas
