@@ -1,6 +1,6 @@
 # Analisis_Datos_Steam
 
-* paco
+* pacco
 * eres
 * una
 * persona
