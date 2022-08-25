@@ -45,3 +45,5 @@ Muchos de estos videojuegos presentan requerimiento de edad, puede que tenga una
 Hay una gran cantidad de videojuegos en el cual muchos usuarios utilizan a diario. El género con horas mas consumidas es el de Accion, Roles
 
 # Conclusiones
+* Tras el análisis llegamos a la conclusión que los juegos mas jugados en steam son de genero "rol por jugador" con el cual nos atrevemos a decir que cualquier juego que desarrollemos y sea de este genero podría llegar a ser exitoso en steam a comparacion a cualquier otro juego de otro genero
+* También se pudo observar que en el año 2020 donde se propago la pandemia fue el año donde se desarrollaron aun mas videojuegos en steam esto debido al confinamiento y a la vez esto genero un crecimiento gradual de usuarios en steam. En total se lanzo un total de 9279 nuevos videojuegos esto en el año 2020.
